@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inicio
+---
+
 # 🌍 Wiki del Modpack
 
 Bienvenid@ a la wiki oficial del Modpack 🎮 
