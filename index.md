@@ -1,6 +1,6 @@
 # 🌍 Wiki del Modpack
 
-Bienvenid@ a la wiki oficial del Modpack 🎮
+Bienvenid@ a la wiki oficial del Modpack 🎮 
 
 Aquí encontrarás:
 - 📦 Lista de mods incluidos
