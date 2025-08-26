@@ -7,13 +7,13 @@ A continuación, se detallan los mods agrupados por categorías:
 ---
 
 ## ⚔️ Categoría 1: RPG, Magia y Progresión
-- [Iron’s Spells ’n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)  
-- [RPG Skill Trees](https://www.curseforge.com/minecraft/mc-mods/rpg-skill-trees)  
-- [Pufferfish’s Skills](https://www.curseforge.com/minecraft/mc-mods/puffish-skills)  
-- [Pufferfish’s Attributes](https://www.curseforge.com/minecraft/mc-mods/puffish-attributes)  
-- [Majrusz’s Progressive Difficulty](https://www.curseforge.com/minecraft/mc-mods/majruszs-progressive-difficulty)   
-- [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful) 
-- Enhanced AI - [Link](https://www.curseforge.com/minecraft/mc-mods/enhanced-ai)  
+- [Iron’s Spells ’n Spellbooks](#Iron’s Spells ’n Spellbooks) - [Link](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)  
+- [RPG Skill Trees](#RPG Skill Trees) - [Link](https://www.curseforge.com/minecraft/mc-mods/rpg-skill-trees)  
+- [Pufferfish’s Skills](#Pufferfish’s Skills) - [Link](https://www.curseforge.com/minecraft/mc-mods/puffish-skills)  
+- [Pufferfish’s Attributes](#Pufferfish’s Attributes) - [Link](https://www.curseforge.com/minecraft/mc-mods/puffish-attributes)  
+- [Majrusz’s Progressive Difficulty](#Majrusz’s Progressive Difficulty) - [Link](https://www.curseforge.com/minecraft/mc-mods/majruszs-progressive-difficulty)   
+- [Bountiful](#Majrusz’s Progressive Difficulty) - [Link](https://www.curseforge.com/minecraft/mc-mods/bountiful) 
+- [Enhanced AI](#Enhanced AI) - [Link](https://www.curseforge.com/minecraft/mc-mods/enhanced-ai)  
 
 ---
 
