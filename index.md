@@ -1,7 +1,3 @@
----
-layout: default
-title: Inicio
----
 
 # 🌍 Wiki del Modpack
 
