@@ -7,14 +7,13 @@ A continuación, se detallan los mods agrupados por categorías:
 ---
 
 ## ⚔️ Categoría 1: RPG, Magia y Progresión
-- Iron’s Spells ’n Spellbooks  
-- RPG Skill Trees  
-- Pufferfish’s Skills  
-- Pufferfish’s Attributes  
-- Majrusz’s Progressive Difficulty  
-- Majrusz Library *(dependencia)*  
-- Bountiful *(misiones tipo tablón)*  
-- Enhanced AI  
+- [Iron’s Spells ’n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)  
+- [RPG Skill Trees](https://www.curseforge.com/minecraft/mc-mods/rpg-skill-trees)  
+- [Pufferfish’s Skills](https://www.curseforge.com/minecraft/mc-mods/puffish-skills)  
+- [Pufferfish’s Attributes](https://www.curseforge.com/minecraft/mc-mods/puffish-attributes)  
+- [Majrusz’s Progressive Difficulty](https://www.curseforge.com/minecraft/mc-mods/majruszs-progressive-difficulty)   
+- [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful) 
+- Enhanced AI - [Link](https://www.curseforge.com/minecraft/mc-mods/enhanced-ai)  
 
 ---
 
@@ -65,7 +64,7 @@ A continuación, se detallan los mods agrupados por categorías:
 ---
 
 ## 🎨 Categoría 7: Visual (Texturas)
-- Stay True *(resource pack, se coloca en carpeta `resourcepacks`)*  
+- Stay True
 
 ---
 
