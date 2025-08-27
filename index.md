@@ -16,4 +16,3 @@ Aquí encontrarás:
 - [Guía de inicio](guia-inicio.md)
 - [FAQ](faq.md)
 - [Créditos](creditos.md)
-- [Test](irons-spells-n-spellbooks.md)
