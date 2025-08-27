@@ -1,54 +1,61 @@
 
-# 🪄 Iron’s Spells ’n Spellbooks
+# ✨ Iron’s Spells ’n Spellbooks
+
+Un mod de magia que introduce un sistema completo de **hechicería y progresión arcana**.  
+Incluye varitas, grimorios, runas y un árbol de hechizos para que desarrolles tu propio estilo de mago.
+
+➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
 
 ---
 
 ## 📖 Descripción del Mod
-**Iron’s Spells ’n Spellbooks** es un mod de magia que agrega un completo sistema de **hechicería, varitas, grimorios y progresión mágica** al mundo de Minecraft.  
-Podrás encontrar, aprender y lanzar conjuros, fabricar libros de hechizos, y convertirte en un mago capaz de invocar, atacar a distancia o protegerte con magia elemental.
+- Agrega un **sistema de magia RPG** basado en hechizos.  
+- Introduce **grimorios** y **varitas mágicas** con diferentes niveles de poder.  
+- Cada hechizo requiere **componentes** que se pueden conseguir en el mundo.  
+- Compatible con mods de progresión como **RPG Skill Trees** y **Pufferfish’s Skills**.  
 
 ---
 
-## 🔀 Etapas del Mod
+## 🛤️ Etapas del Mod
 
-### 🌱 Etapa Inicial
-- Encuentra tu **primer grimorio** en cofres de estructuras o créalo con materiales básicos.  
-- Empieza con **hechizos simples** como proyectiles mágicos, chispas de fuego y curaciones menores.  
+### 🌱 Etapa Temprana
+- Obtén tu **primer grimorio** y desbloquea hechizos básicos (fuego, curación, rayos).  
+- Usa varitas de bajo nivel para aprender la mecánica del *mana*.  
 
-### ⚔️ Etapa Intermedia
-- Mejora tus varitas con materiales más avanzados.  
-- Desbloquea **escuelas de magia** (fuego, hielo, rayo, curación).  
-- Combina magia con armas físicas para tener un estilo de combate híbrido.  
+### ⚔️ Etapa Media
+- Mejora tus varitas con materiales más raros (oro, diamante).  
+- Accede a hechizos de control y daño en área.  
+- Empieza a personalizar tu estilo de magia (ofensiva, defensiva o soporte).  
 
 ### 👑 Etapa Avanzada
-- Aprende **hechizos de área** y conjuros de invocación.  
-- Explora estructuras avanzadas para conseguir grimorios raros.  
-- Accede a **magias de alto nivel** como teletransportación o meteoritos.  
+- Domina la **varita suprema** y el grimorio completo.  
+- Lanza hechizos devastadores que pueden cambiar el curso de batallas contra jefes.  
+- Combina tus habilidades mágicas con sistemas de progresión de otros mods RPG.  
 
 ---
 
 ## 🛠️ Crafteos
 
-*(Aquí deberían ir imágenes de cada crafteo con el grid de 3x3 de Minecraft. Como GitHub no genera automáticamente el “grid visual”, lo ideal es subir las imágenes a `/assets/img/irons/` y enlazarlas aquí)*
+A continuación se muestran los principales crafteos (usa JEI para ver todos en juego).  
 
-Ejemplo de formato:
+### 📘 Grimorio Básico
+![Crafteo Grimorio](<img width="378" height="198" alt="image" src="https://github.com/user-attachments/assets/ca796d2b-42e9-4055-af48-295c7d71c8d2" />)  
+*Se elabora con libro y esencia arcana.*  
 
-### 📘 Libro de Hechizos
-![Crafteo Libro de Hechizos](/assets/img/irons/spellbook.png)  
-**Receta:** Papel + Cuero + Cristal mágico  
+### 🔮 Varita de Hierro
+![Crafteo Varita de Hierro](/images/crafteos/ironspell_varita_hierro.png)  
+*Primer nivel de varita mágica, base para progresar en hechicería.*  
 
-### 🪄 Varita Básica
-![Crafteo Varita Básica](/assets/img/irons/wand.png)  
-**Receta:** Palo + Cristal mágico  
-
-*(Se repetiría para cada receta disponible del mod: grimorios, varitas avanzadas, talismanes, etc.)*  
+### 💎 Varita de Diamante
+![Crafteo Varita de Diamante](/images/crafteos/ironspell_varita_diamante.png)  
+*Mejora la capacidad de lanzar hechizos más poderosos.*  
 
 ---
 
 ## 💡 Tips
-- Los **grimorios iniciales** suelen encontrarse en cofres de estructuras como minas y mazmorras.  
-- No olvides llevar siempre un **backup de varitas**: algunas se rompen con el uso.  
-- Combina tus habilidades mágicas con **Artifacts** para potenciar tu estilo de combate.  
-- Avanza de a poco: los hechizos avanzados consumen muchos recursos y maná.  
+- Siempre lleva **componentes básicos** en tu inventario (como polvo de blaze y esencias mágicas).  
+- Marca en tu **JourneyMap** los biomas o mazmorras donde encuentres recursos arcanos.  
+- Usa los hechizos de curación como alternativa a pociones tradicionales.  
+- Combínalo con **Artifacts** y **RPG Skill Trees** para crear builds únicas de mago-guerrero.  
 
 ---
