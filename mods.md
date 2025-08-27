@@ -7,8 +7,9 @@ A continuación, se detallan los mods agrupados por categorías:
 ---
 
 ## ⚔️ Categoría 1: RPG, Magia y Progresión
-- ##Iron’s Spells ’n Spellbooks
-  [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
+
+- [Iron’s Spells ’n Spellbooks](#irons-spells-n-spellbooks)
+➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
   
 - [RPG Skill Trees](#RPG Skill Trees.md) - [Link](https://www.curseforge.com/minecraft/mc-mods/rpg-skill-trees)  
 - [Pufferfish’s Skills](#Pufferfish’s Skills) - [Link](https://www.curseforge.com/minecraft/mc-mods/puffish-skills)  
