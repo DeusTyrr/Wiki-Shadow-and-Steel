@@ -36,6 +36,11 @@ El **Iron’s Guidebook** es el primer paso en tu camino mágico, ya que contien
 
 ![Crafteo Iron’s Guidebook](https://jangro.com/images/irons-spells-guidebook-recipe.png)
 
+### 📗 Estacion de trabajo
+
+![Estacion de trabajo](https://jangro.com/images/irons-spells-inscription-table-recipe.png)
+
+
 ---
 
 ## 💡 Tips
