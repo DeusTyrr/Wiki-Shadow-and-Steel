@@ -31,44 +31,44 @@ Haz clic en el nombre de cada mod para ver más detalles 👇
 ---
 
 ## ⚒️ Categoría 3: Armas, Armaduras y Combate
-- [Epic Knights: Armor and Weapons](#epic-knights-armor-and-weapons)
-- [Architectury API](#architectury-api)
-- [Cloth Config API](#cloth-config-api)
-- [Shield Expansion](#shield-expansion)
-- [Artifacts](#artifacts)
-- [More Artifacts](#more-artifacts)
-- [Curios API](#curios-api)
+- [Epic Knights: Armor and Weapons](#epic-knights-armor-and-weapons) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons)
+- [Architectury API](#architectury-api) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
+- [Cloth Config API](#cloth-config-api) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+- [Shield Expansion](#shield-expansion) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/shield-expansion)
+- [Artifacts](#artifacts) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/artifacts)
+- [More Artifacts](#more-artifacts) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-artifacts)
+- [Curios API](#curios-api) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/curios)
 
 ---
 
 ## 🏰 Categoría 4: Mundo, Estructuras y Exploración
-- [When Dungeons Arise](#when-dungeons-arise)
-- [YUNG’s Better Dungeons](#yungs-better-dungeons)
-- [YUNG’s Better Mineshafts](#yungs-better-mineshafts)
-- [YUNG’s Better Strongholds](#yungs-better-strongholds)
-- [YUNG’s API](#yungs-api)
-- [Dungeons Plus](#dungeons-plus)
+- [When Dungeons Arise](#when-dungeons-arise) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
+- [YUNG’s Better Dungeons](#yungs-better-dungeons) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+- [YUNG’s Better Mineshafts](#yungs-better-mineshafts) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts)
+- [YUNG’s Better Strongholds](#yungs-better-strongholds) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+- [YUNG’s API](#yungs-api) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
+- [Dungeons Plus](#dungeons-plus) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dungeons-plus)
 
 ---
 
 ## 🌱 Categoría 5: Supervivencia y Vida Cotidiana
-- [Farmer’s Delight](#farmers-delight)
-- [Alex’s Delight](#alexs-delight)
-- [Nether’s Delight](#nethers-delight)
-- [Ocean’s Delight](#oceans-delight)
-- [AppleSkin](#appleskin)
-- [HT’s Tree Chop](#hts-tree-chop)
-- [Croptopia](#croptopia)
-- [Traveler’s Backpack](#travelers-backpack)
+- [Farmer’s Delight](#farmers-delight) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
+- [Alex’s Delight](#alexs-delight) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
+- [Nether’s Delight](#nethers-delight) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+- [Ocean’s Delight](#oceans-delight) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oceans-delight)
+- [AppleSkin](#appleskin) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [HT’s Tree Chop](#hts-tree-chop) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/treechop)
+- [Croptopia](#croptopia) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia)
+- [Traveler’s Backpack](#travelers-backpack) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)
 
 ---
 
 ## 🎨 Categoría 7: Visual (Texturas)
-- [Stay True](#stay-true)
+- [Stay True](#stay-true) ➡️ [CurseForge](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 
 ---
 
 ## ➕ Categoría Extra: Calidad de Vida
-- [JourneyMap](#journeymap)
-- [Corail Tombstone](#corail-tombstone)
-- [Jade](#jade)
+- [JourneyMap](#journeymap) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+- [Corail Tombstone](#corail-tombstone) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+- [Jade](#jade) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade)
