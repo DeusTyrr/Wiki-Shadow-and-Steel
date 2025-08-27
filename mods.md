@@ -6,29 +6,27 @@ Haz clic en el nombre de cada mod para ver más detalles 👇
 ---
 
 ## ⚔️ Categoría 1: RPG, Magia y Progresión
-- [Iron’s Spells ’n Spellbooks](#irons-spells-n-spellbooks)
-➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)  
-- [RPG Skill Trees](#rpg-skill-trees)
-➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rpg-skill-trees)
-- [Pufferfish’s Skills](#pufferfishs-skills)
-- [Pufferfish’s Attributes](#pufferfishs-attributes)
-- [Majrusz’s Progressive Difficulty](#majruszs-progressive-difficulty)
-- [Majrusz Library](#majrusz-library)
-- [Bountiful](#bountiful)
-- [Enhanced AI](#enhanced-ai)
+- [Iron’s Spells ’n Spellbooks](#irons-spells-n-spellbooks) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)  
+- [RPG Skill Trees](#rpg-skill-trees) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rpg-skill-trees)
+- [Pufferfish’s Skills](#pufferfishs-skills) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pufferfishs-skills) 
+- [Pufferfish’s Attributes](#pufferfishs-attributes) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pufferfishs-attributes)
+- [Majrusz’s Progressive Difficulty](#majruszs-progressive-difficulty) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/majruszs-progressive-difficulty) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/majruszs-library)
+- [Majrusz Library](#majrusz-library) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/majruszs-library)
+- [Bountiful](#bountiful) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bountiful)  
+- [Enhanced AI](#enhanced-ai) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enhanced-ai)
 
 ---
 
 ## 👹 Categoría 2: Enemigos y Criaturas
-- [Grimoire of Gaia](#grimoire-of-gaia)
-- [Born in Chaos](#born-in-chaos)
-- [GeckoLib](#geckolib)
-- [Enemy Expansion](#enemy-expansion)
-- [Alex’s Mobs](#alexs-mobs)
-- [Alex’s Delight](#alexs-delight)
-- [Serene Seasons](#serene-seasons)
-- [Ambient Sounds 5](#ambient-sounds-5)
-- [Mowzie’s Mobs](#mowzies-mobs)
+- [Grimoire of Gaia](#grimoire-of-gaia) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia)
+- [Born in Chaos](#born-in-chaos) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos)
+- [GeckoLib](#geckolib) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)
+- [Enemy Expansion](#enemy-expansion) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enemy-expansion)
+- [Alex’s Mobs](#alexs-mobs) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) 
+- [Alex’s Delight](#alexs-delight) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) 
+- [Serene Seasons](#serene-seasons) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) 
+- [Ambient Sounds 5](#ambient-sounds-5) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) 
+- [Mowzie’s Mobs](#mowzies-mobs) ➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
 
 ---
 
