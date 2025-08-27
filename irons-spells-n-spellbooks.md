@@ -1,61 +1,47 @@
 
 # ✨ Iron’s Spells ’n Spellbooks
 
-Un mod de magia que introduce un sistema completo de **hechicería y progresión arcana**.  
-Incluye varitas, grimorios, runas y un árbol de hechizos para que desarrolles tu propio estilo de mago.
-
-➡️ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
-
 ---
 
 ## 📖 Descripción del Mod
-- Agrega un **sistema de magia RPG** basado en hechizos.  
-- Introduce **grimorios** y **varitas mágicas** con diferentes niveles de poder.  
-- Cada hechizo requiere **componentes** que se pueden conseguir en el mundo.  
-- Compatible con mods de progresión como **RPG Skill Trees** y **Pufferfish’s Skills**.  
+**Iron’s Spells ’n Spellbooks** es un mod de magia que agrega un completo sistema de hechicería a Minecraft.  
+Incluye grimorios, varitas, bastones y decenas de hechizos que puedes desbloquear para progresar en un estilo de juego mágico.  
+
+Con este mod podrás lanzar conjuros de ataque, defensa y utilidad, dándole al juego un fuerte enfoque RPG.  
+
+➡️ [Página en CurseForge](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
 
 ---
 
-## 🛤️ Etapas del Mod
+## 🗺️ Etapas del Mod
 
-### 🌱 Etapa Temprana
-- Obtén tu **primer grimorio** y desbloquea hechizos básicos (fuego, curación, rayos).  
-- Usa varitas de bajo nivel para aprender la mecánica del *mana*.  
+- **Inicio:**  
+  - Obtén tu primer **Iron’s Guidebook**, que te servirá para aprender los fundamentos mágicos.  
+  - Accede a hechizos básicos como fuego, curación o utilidades.  
 
-### ⚔️ Etapa Media
-- Mejora tus varitas con materiales más raros (oro, diamante).  
-- Accede a hechizos de control y daño en área.  
-- Empieza a personalizar tu estilo de magia (ofensiva, defensiva o soporte).  
+- **Progresión Media:**  
+  - Recolecta materiales raros para fabricar **varitas y bastones mágicos avanzados**.  
+  - Explora estructuras y derrota mobs para conseguir nuevos pergaminos y grimorios.  
 
-### 👑 Etapa Avanzada
-- Domina la **varita suprema** y el grimorio completo.  
-- Lanza hechizos devastadores que pueden cambiar el curso de batallas contra jefes.  
-- Combina tus habilidades mágicas con sistemas de progresión de otros mods RPG.  
+- **Etapa Avanzada:**  
+  - Desbloquea conjuros poderosos como invocaciones, explosiones mágicas y hechizos combinados.  
+  - Combina tu build con *RPG Skill Trees* y *Pufferfish’s Attributes* para maximizar tu poder mágico.  
 
 ---
 
 ## 🛠️ Crafteos
 
-A continuación se muestran los principales crafteos (usa JEI para ver todos en juego).  
+### 📗 Iron’s Guidebook
+El **Iron’s Guidebook** es el primer paso en tu camino mágico, ya que contiene toda la información esencial del mod.  
 
-### 📘 Grimorio Básico
-![Crafteo Grimorio](<img width="378" height="198" alt="image" src="https://github.com/user-attachments/assets/ca796d2b-42e9-4055-af48-295c7d71c8d2" />)  
-*Se elabora con libro y esencia arcana.*  
-
-### 🔮 Varita de Hierro
-![Crafteo Varita de Hierro](/images/crafteos/ironspell_varita_hierro.png)  
-*Primer nivel de varita mágica, base para progresar en hechicería.*  
-
-### 💎 Varita de Diamante
-![Crafteo Varita de Diamante](/images/crafteos/ironspell_varita_diamante.png)  
-*Mejora la capacidad de lanzar hechizos más poderosos.*  
+![Crafteo Iron’s Guidebook](https://jangro.com/images/irons-spells-guidebook-recipe.png)
 
 ---
 
 ## 💡 Tips
-- Siempre lleva **componentes básicos** en tu inventario (como polvo de blaze y esencias mágicas).  
-- Marca en tu **JourneyMap** los biomas o mazmorras donde encuentres recursos arcanos.  
-- Usa los hechizos de curación como alternativa a pociones tradicionales.  
-- Combínalo con **Artifacts** y **RPG Skill Trees** para crear builds únicas de mago-guerrero.  
+- El **Iron’s Guidebook** es tu punto de partida: consíguelo lo antes posible.  
+- Practica con hechizos simples antes de fabricar varitas más costosas.  
+- Los pergaminos y grimorios pueden encontrarse en cofres de estructuras y al derrotar mobs.  
+- Configura teclas rápidas para alternar entre hechizos durante el combate.  
 
 ---
